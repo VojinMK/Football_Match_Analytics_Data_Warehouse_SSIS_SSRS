@@ -87,5 +87,5 @@ Each report is designed for drill-down exploration and cross-season comparison.
 ---
 
 Complete project documentation is available in Serbian:  
-**[Projektna dokumentacija (PDF)]
+**[Projektna_dokumentacija-Vojin_Ćetković_IT21_2021.pdf (PDF)]
 
